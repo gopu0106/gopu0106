@@ -36,27 +36,20 @@
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
 </p>
+
 ---
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=gopu0106&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="GitHub Stats"
-  />
+<p>
+  <img src="https://img.shields.io/github/followers/gopu0106?label=Followers&style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/gopu0106?label=Stars&style=for-the-badge" />
 </p>
 
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=gopu0106&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
+<p>
+  <img src="https://img.shields.io/badge/Contributions-Active-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20Source-Enthusiast-blue?style=for-the-badge" />
 </p>
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gopu0106&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top Languages"
-  />
-</p>
+📈 **Contribution Graph:**  
+➡️ Scroll down on my profile to see my GitHub contribution activity.
