@@ -1,16 +1,14 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Gopal </h1>
+<h3 align="center">Aspiring Full Stack Developer | Open Source Enthusiast</h3>
 
-<!--
-**gopu0106/gopu0106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gopu0106&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  🚀 Passionate about building web applications and contributing to open source  
+  <br/>
+  🌱 Currently learning Full Stack Development  
+  <br/>
+  💡 Interested in real-world projects & collaborations
+</p>
