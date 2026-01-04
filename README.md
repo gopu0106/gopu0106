@@ -37,14 +37,6 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
 </p>
 
----
-
-### 📊 GitHub Stats
-
-<p>
-  <img src="https://img.shields.io/github/followers/gopu0106?label=Followers&style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/gopu0106?label=Stars&style=for-the-badge" />
-</p>
 
 <p>
   <img src="https://img.shields.io/badge/Contributions-Active-brightgreen?style=for-the-badge" />
