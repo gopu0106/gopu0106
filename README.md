@@ -12,3 +12,27 @@
   <br/>
   💡 Interested in real-world projects & collaborations
 </p>
+
+---
+
+### 🛠️ Languages & Tools
+
+#### 💻 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+</p>
+
+#### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+#### 🗄️ Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+</p>
+
+#### 🔧 Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+</p>
