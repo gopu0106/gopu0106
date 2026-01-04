@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Gopal 👋 </h1>
+<h1 align="center">Hi, I'm Gopal 👋</h1>
 <h3 align="center">Aspiring Full Stack Developer | Open Source Enthusiast</h3>
 
 <p align="center">
@@ -19,12 +19,12 @@
 
 #### 💻 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,c" />
 </p>
 
 #### ⚙️ Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python" />
 </p>
 
 #### 🗄️ Database
@@ -36,12 +36,3 @@
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
 </p>
-
-
-<p>
-  <img src="https://img.shields.io/badge/Contributions-Active-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Open%20Source-Enthusiast-blue?style=for-the-badge" />
-</p>
-
-📈 **Contribution Graph:**  
-➡️ Scroll down on my profile to see my GitHub contribution activity.
